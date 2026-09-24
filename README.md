@@ -1,5 +1,7 @@
 # Zyven
 
+![Zyven Logo](https://raw.githubusercontent.com/ZyvenAU/Zyven/main/Zyven.jpg)
+
 > [!CAUTION]
 > The only official place to download Zyven is this GitHub repository. Any other websites offering downloads are not affiliated with us.
 >
