@@ -1,6 +1,6 @@
 # Zyven
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/ZyvenAU/Zyven/main/Zyven.jpg" alt="Zyven Logo" width="120">
 </p>
 
