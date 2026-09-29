@@ -1,7 +1,7 @@
 # Zyven
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/ZyvenAU/Zyven/main/Logo.png" alt="Zyven Logo" width="120">
+  <img src="https://www.zyvenau.workers.dev/files/Logo.png" alt="Zyven Logo" width="120">
 </p>
 
 > [!CAUTION]
