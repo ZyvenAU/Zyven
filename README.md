@@ -14,8 +14,6 @@
 > Zyven is an **advanced utility and hack menu** for *Among Us*, powered by **BepInEx**.
 > It allows players to modify gameplay, unlock features, and experiment
 > with the game’s mechanics through a feature-rich menu.
-> 
-> This menu is still developing, meaning that some features might kick you until they are fixed because of the new updates.
 >
 > The Discord server invite link is: https://discord.gg/wHJaqJM3VU
 
@@ -39,11 +37,6 @@
   [![Discord](https://img.shields.io/discord/1529860217687506985?style=flat-square&logo=discord&logoColor=white&label=discord&color=4d3dff)](https://discord.gg/wHJaqJM3VU)
   [![Stars](https://img.shields.io/github/stars/ZyvenAU/Zyven?style=flat-square&color=dd9900)](https://github.com/ZyvenAU/Zyven/stargazers)
 </div>
-
----
-
-> *Status:*
-> - No status yet.
 
 ---
 
@@ -71,12 +64,3 @@ Zyven is a **utility menu** for *Among Us*, powered by **BepInEx**. It allows pl
 - **Framework:** [BepInEx](https://github.com/BepInEx/BepInEx)
 - **Suggestions/Pull requests:** [MalumMenu](https://github.com/scp222thj/MalumMenu)
 ---
-
-## Installation
-
-1. Install **Zyven** for Among Us (if not already present).
-   - [Steam and Itch](https://github.com/ZyvenAU/Zyven/releases/download/Zyven/Steam_Itch.zip)
-   - [Epic Games, Microsoft Store, and Xbox App](https://github.com/ZyvenAU/Zyven/releases/download/Zyven/EpicGames_MicrosoftStore_XboxApp.zip)  
-3. Replace all
-6. Launch the game
-7. Open the menu with the toggle key **Del** or your preset toggle key and enjoy!
