@@ -55,8 +55,6 @@ Zyven is a **utility menu** for *Among Us*, powered by **BepInEx**. It allows pl
 > If you want to make a bug report, then create an issue and add [BUG REPORT] at the start of the title.
 > 
 > After providing the necessary code for a pull request, I will decide whether to add it to Zyven or not. If it is added, you will be credited (if you'd like).
-> 
-> [License](https://github.com/ZyvenAU/Zyven/blob/main/LICENSE)
 ---
 
 ## Credits
