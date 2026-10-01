@@ -31,7 +31,6 @@
 
 <div align="center">
   <br>
-  
   [![License](https://img.shields.io/github/license/ZyvenAU/Zyven?style=flat-square)](LICENSE)
   [![Builds](https://img.shields.io/github/actions/workflow/status/ZyvenAU/Zyven/ci-release.yml?branch=main&style=flat-square&label=builds)](https://github.com/ZyvenAU/Zyven/actions)
   [![Downloads](https://img.shields.io/github/downloads/ZyvenAU/Zyven/latest/total?style=flat-square&color=981bfe)](https://github.com/ZyvenAU/Zyven/releases/latest)
