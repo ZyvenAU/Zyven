@@ -58,8 +58,8 @@ Zyven is a **utility menu** for *Among Us*, powered by **BepInEx**. It allows pl
 ---
 
 ## Credits
-- **Creator:** [ReactorCoreDev](https://github.com/ReactorCoreDev)
-- **Lead Developer:** [Zo5yn](https://github.com/Zo5yn)
+- **Old Creator:** [ReactorCoreDev](https://github.com/ReactorCoreDev)
+- **Creator:** [Zo5yn](https://github.com/Zo5yn)
 - **Framework:** [BepInEx](https://github.com/BepInEx/BepInEx)
 - **Suggestions/Pull requests:** [MalumMenu](https://github.com/scp222thj/MalumMenu)
 ---
